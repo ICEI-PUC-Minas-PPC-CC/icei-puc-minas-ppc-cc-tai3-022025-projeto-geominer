@@ -8,8 +8,7 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 ## 👥 Integrantes
 
 - Nome 1 – RA: XXXXXXXX  
-- Nome 2 – RA: XXXXXXXX  
-- Nome 3 – RA: XXXXXXXX  
+- João Pedro Zaghi – RA: 813241
 
 ---
 
