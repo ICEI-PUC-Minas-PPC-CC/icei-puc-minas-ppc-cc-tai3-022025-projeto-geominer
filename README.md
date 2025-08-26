@@ -1,13 +1,12 @@
-# 📌 Nome do Projeto
+# 📌 Geominer
 
-Breve descrição do problema identificado e da solução proposta.  
-Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes etc.
+O *GeoMiner* ajuda empreendedores a identificar tendências de produtos em tempo real, facilitando decisões seguras e rápidas nos marketplaces.
 
 ---
 
 ## 👥 Integrantes
 
-- Nome 1 – RA: XXXXXXXX  
+- Breno da Silva – RA: 833689 
 - João Pedro Zaghi – RA: 813241
 
 ---
@@ -15,21 +14,21 @@ Pode incluir imagens, diagramas ou links para protótipos, vídeos, wireframes e
 ## 🧭 Etapas do Projeto
 
 ### 1️⃣ Definição do Problema e da Solução
-- **Problema identificado:**  
-- **Público-alvo:**  
-- **Impacto esperado:**  
-- **Solução proposta:**  
+- **Problema identificado: Empreendedores e lojistas enfrentam dificuldade em descobrir quais produtos estão em alta nos marketplaces, o que leva a decisões de negócio arriscadas e perda de tempo.**  
+- **Público-alvo: Pequenos e médios empreendedores digitais, consultores de marketing e empresas que atuam em e-commerce.** 
+- **Impacto esperado: Reduzir a incerteza, aumentar a assertividade na escolha de produtos e democratizar o acesso a dados de mercado.**  
+- **Solução proposta: GeoMiner, uma plataforma que analisa e apresenta em tempo real os produtos mais vendidos da Amazon, Mercado Livre, Shopee e outros, oferecendo relatórios claros e acessíveis.**  
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
 - Lean Canvas (imagem ou link)  
-- Missão:  
-- Visão:  
-- Valores:  
+- Missão: Fornecer dados de tendências de mercado de forma acessível e confiável, ajudando empreendedores a tomarem melhores decisões. 
+- Visão: Ser a principal referência em análise de produtos e tendências no Brasil, tornando-se indispensável para quem atua em e-commerce. 
+- Valores: Inovação, acessibilidade, confiabilidade, agilidade e transparência. 
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos:  
-- Custos variáveis:  
-- Tributos aplicáveis:  
+- Custos fixos: Hospedagem de servidores, domínio do site, equipe de desenvolvimento, suporte técnico e marketing básico.  
+- Custos variáveis: Campanhas de marketing digital, manutenção de integrações com marketplaces, atualizações de sistema e eventuais ferramentas de análise.  
+- Tributos aplicáveis: Inicialmente pode se enquadrar no Simples Nacional, com alíquota de 6% a 15% sobre o faturamento; em caso de crescimento, poderá migrar para Lucro Presumido ou Lucro Real. 
 
 ### 4️⃣ Investimentos e Precificação
 - Investimento inicial:  
