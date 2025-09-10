@@ -1,3 +1,41 @@
+# Custos e Despesas – GeoMiner
+
+## Custos Fixos
+- Hospedagem de servidores (mensal)
+- Domínio do site
+- Salários da equipe de desenvolvimento
+- Suporte técnico
+- Marketing institucional básico
+
+## Custos Variáveis
+- Campanhas de marketing digital (Google Ads, Meta Ads)
+- Manutenção das integrações com marketplaces
+- Atualizações do sistema e novas features
+- Ferramentas de análise e APIs externas
+
+## Custos Diretos
+- Infraestrutura de servidores
+- Licenciamento de APIs/softwares necessários
+- Desenvolvimento do sistema
+
+## Custos Indiretos
+- Marketing digital
+- Atendimento ao cliente
+- Serviços administrativos
+
+
+# Lista de Custos – GeoMiner
+
+- **Hospedagem** → Fixo, direto  
+- **Domínio do site** → Fixo, direto  
+- **Equipe de desenvolvimento** → Fixo, direto  
+- **Suporte técnico** → Fixo, indireto  
+- **Marketing institucional** → Fixo, indireto  
+- **Campanhas digitais** → Variável, indireto  
+- **Manutenção de integrações** → Variável, direto  
+- **Atualizações do sistema** → Variável, direto  
+- **Ferramentas externas/APIs** → Variável, direto
+
 # 📌 Geominer
 
 O *GeoMiner* ajuda empreendedores a identificar tendências de produtos em tempo real, facilitando decisões seguras e rápidas nos marketplaces.
