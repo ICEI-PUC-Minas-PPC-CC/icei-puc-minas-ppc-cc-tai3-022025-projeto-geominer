@@ -1,50 +1,3 @@
-Estimativas de Custos e Tributos – GeoMiner
-
-📌 Custos Fixos (mensais)
-
-Servidor em nuvem (AWS/Azure): R$ 250,00
-
-Domínio e hospedagem: R$ 50,00
-
-Internet/infraestrutura: R$ 100,00
-
-Total fixo: R$ 400,00/mês
-
-
-📌 Custos Variáveis
-
-Manutenção e suporte técnico: R$ 300,00/mês
-
-Marketing/divulgação: R$ 200,00/mês
-
-Atualizações de software: R$ 150,00/mês
-
-Total variável: R$ 650,00/mês
-
-
-📌 Tributos (estimativa)
-
-MEI (Simples Nacional): R$ 70,00/mês
-
-ISS sobre serviços (aprox. 5% do faturamento): se o projeto faturar R$ 5.000,00/mês → R$ 250,00
-
-
-Total tributos médios: R$ 320,00/mês
-
-
----
-
-📊 Resumo geral do custo mensal estimado:
-
-Fixos: R$ 400,00
-
-Variáveis: R$ 650,00
-
-Tributos: R$ 320,00
-➡️ Total: ~R$ 1.370,00/mês
-
-
-
 # 📌 Geominer
 
 O *GeoMiner* ajuda empreendedores a identificar tendências de produtos em tempo real, facilitando decisões seguras e rápidas nos marketplaces.
@@ -73,7 +26,7 @@ O *GeoMiner* ajuda empreendedores a identificar tendências de produtos em tempo
 - Valores: Inovação, acessibilidade, confiabilidade, agilidade e transparência. 
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
-- Custos fixos: Hospedagem de servidores, domínio do site, equipe de desenvolvimento, suporte técnico e marketing básico.  
+- Custos fixos: Hospedagem de servidores, domínio do site, equipe de desenvolvimento, suporte técnico e marketing básico. 
 - Custos variáveis: Campanhas de marketing digital, manutenção de integrações com marketplaces, atualizações de sistema e eventuais ferramentas de análise.  
 - Tributos aplicáveis: Inicialmente pode se enquadrar no Simples Nacional, com alíquota de 6% a 15% sobre o faturamento; em caso de crescimento, poderá migrar para Lucro Presumido ou Lucro Real. 
 
