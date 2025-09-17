@@ -20,20 +20,65 @@ O *GeoMiner* ajuda empreendedores a identificar tendências de produtos em tempo
 - **Solução proposta: GeoMiner, uma plataforma que analisa e apresenta em tempo real os produtos mais vendidos da Amazon, Mercado Livre, Shopee e outros, oferecendo relatórios claros e acessíveis.**  
 
 ### 2️⃣ Lean Canvas / Missão, Visão e Valores
+
+<img width="800" height="521" alt="leancanvasgeominer" src="https://github.com/user-attachments/assets/1c0d34cb-2e2a-4476-853b-0949a6da08ef" />
+
+
 - Lean Canvas (imagem ou link)  
 - Missão: Fornecer dados de tendências de mercado de forma acessível e confiável, ajudando empreendedores a tomarem melhores decisões. 
 - Visão: Ser a principal referência em análise de produtos e tendências no Brasil, tornando-se indispensável para quem atua em e-commerce. 
 - Valores: Inovação, acessibilidade, confiabilidade, agilidade e transparência. 
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
+
+PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/QHAu8b8GK
+
 - Custos fixos: Hospedagem de servidores, domínio do site, equipe de desenvolvimento, suporte técnico e marketing básico. 
 - Custos variáveis: Campanhas de marketing digital, manutenção de integrações com marketplaces, atualizações de sistema e eventuais ferramentas de análise.  
 - Tributos aplicáveis: Inicialmente pode se enquadrar no Simples Nacional, com alíquota de 6% a 15% sobre o faturamento; em caso de crescimento, poderá migrar para Lucro Presumido ou Lucro Real. 
 
 ### 4️⃣ Investimentos e Precificação
-- Investimento inicial:  
-- Estratégia de precificação:  
-- Justificativa:  
+
+PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/QHAu8b8GK
+
+- Investimento inicial:
+
+Servidores e hospedagem em nuvem: R$ 1.200,00/ano → infraestrutura estável para coleta e exibição de dados.
+
+Ferramentas e licenças de desenvolvimento (APIs, IDEs, automações): R$ 1.000,00/ano → integrações e manutenção do sistema.
+
+Registro da marca e formalização da empresa: R$ 1.000,00 (custo único) → proteção legal e abertura da startup.
+
+Marketing inicial de lançamento: R$ 3.000,00 → campanhas em redes sociais, anúncios pagos e branding.
+
+Capital de giro (salários, suporte e manutenção): R$ 6.000,00 → garantir operação mínima nos primeiros meses.
+
+- Estratégia de precificação:
+
+Plano Gratuito – R$ 0,00
+Acesso a até 10 produtos em alta por semana.
+Visualização básica de tendências.
+Indicado para iniciantes que querem testar o GeoMiner sem custo.
+
+Plano Starter – R$ 39,90/mês ou R$ 399,00/ano
+Acesso ilimitado a produtos em alta nos marketplaces.
+Relatórios semanais simples de desempenho.
+Suporte padrão.
+Público-alvo: pequenos vendedores e empreendedores individuais.
+
+Plano Profissional – R$ 79,90/mês ou R$ 799,00/ano
+Alertas personalizados de novos produtos em destaque.
+Suporte prioritário por e-mail e chat.
+Público-alvo: consultores de marketing digital, dropshippers e lojistas médios.
+
+Plano Empresarial – R$ 149,90/mês ou R$ 1.499,00/ano
+Todas as funcionalidades anteriores.
+Integrações com e-commerces (Shopify, Nuvemshop, WooCommerce).
+Painel multiusuário (acesso para times).
+Público-alvo: empresas estruturadas de e-commerce e agências de marketing.
+
+- Justificativa: O modelo de precificação do GeoMiner foi construído em camadas progressivas de valor. O plano gratuito atrai usuários iniciais e garante experimentação. O plano Starter é acessível, pensado para pequenos vendedores que querem dados básicos. O plano Profissional agrega diferenciais, ideal para quem depende fortemente de dados de mercado. Já o plano Empresarial atende empresas maiores, com integrações e permitindo uso corporativo.
+Essa estrutura cria uma escada de valor que aumenta a retenção e receita por cliente, além de ser competitiva em relação a ferramentas internacionais, oferecendo preços mais acessíveis ao público brasileiro. 
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 - Forças:  
