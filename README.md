@@ -81,10 +81,33 @@ Público-alvo: empresas estruturadas de e-commerce e agências de marketing.
 Essa estrutura cria uma escada de valor que aumenta a retenção e receita por cliente, além de ser competitiva em relação a ferramentas internacionais, oferecendo preços mais acessíveis ao público brasileiro. 
 
 ### 5️⃣ SWOT (Análise de Ambientes)
-- Forças:  
-- Fraquezas:  
-- Oportunidades:  
-- Ameaças:  
+- Forças:
+
+Plataforma inovadora de mineração de dados com foco em inteligência de mercado.
+Facilidade de uso e interface intuitiva, mesmo para usuários não técnicos.
+Modelo de negócio escalável (possibilidade de atender empresas de diferentes portes).
+Potencial de integração com APIs de grandes marketplaces (ex.: Amazon, Mercado Livre).
+
+- Fraquezas:
+
+Dependência inicial de capital para infraestrutura tecnológica e marketing.
+Equipe reduzida no início, o que pode limitar a velocidade de expansão.
+Necessidade constante de atualização para acompanhar mudanças nas plataformas de e-commerce.
+Risco de instabilidade em integrações (ex.: mudanças de API por terceiros).
+
+- Oportunidades:
+
+Crescente demanda por Business Intelligence e Data Analytics no e-commerce.
+Possibilidade de oferecer planos segmentados (básico, avançado, corporativo).
+Adoção de tecnologias emergentes como IA e Machine Learning para previsões de mercado.
+Expansão para outros mercados além do Brasil, aproveitando a globalização do e-commerce.
+
+- Ameaças:
+
+Concorrência de grandes players já consolidados em análise de dados.
+Barreiras regulatórias ou legais relacionadas a coleta e uso de dados.
+Oscilações no mercado de e-commerce que podem impactar a demanda.
+Risco de ataques cibernéticos e necessidade de forte investimento em segurança da informação.
 
 ### 6️⃣ Planejamento Estratégico (BSC)
 - Objetivos estratégicos:  
