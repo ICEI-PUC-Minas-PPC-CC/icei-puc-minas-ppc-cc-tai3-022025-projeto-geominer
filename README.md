@@ -31,6 +31,8 @@ O *GeoMiner* ajuda empreendedores a identificar tendências de produtos em tempo
 
 ### 3️⃣ Custos e Tributos (Plano de Negócios - PNBOX)
 
+[Custos e Tributos](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/634879d30bbef2acef048c03c7eca50bdac8ef40/custos_estudo.md)
+
 PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/QHAu8b8GK
 
 - Custos fixos: Hospedagem de servidores, domínio do site, equipe de desenvolvimento, suporte técnico e marketing básico. 
@@ -38,6 +40,8 @@ PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/QHAu8b8GK
 - Tributos aplicáveis: Inicialmente pode se enquadrar no Simples Nacional, com alíquota de 6% a 15% sobre o faturamento; em caso de crescimento, poderá migrar para Lucro Presumido ou Lucro Real. 
 
 ### 4️⃣ Investimentos e Precificação
+
+[Plano De Negócio](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/634879d30bbef2acef048c03c7eca50bdac8ef40/plano_de_negocio.md)
 
 PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/QHAu8b8GK
 
