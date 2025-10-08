@@ -85,6 +85,9 @@ Público-alvo: empresas estruturadas de e-commerce e agências de marketing.
 Essa estrutura cria uma escada de valor que aumenta a retenção e receita por cliente, além de ser competitiva em relação a ferramentas internacionais, oferecendo preços mais acessíveis ao público brasileiro. 
 
 ### 5️⃣ SWOT (Análise de Ambientes)
+
+[Plano De Negócio](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/634879d30bbef2acef048c03c7eca50bdac8ef40/plano_de_negocio.md)
+
 - Forças:
 
 Plataforma inovadora de mineração de dados com foco em inteligência de mercado.
