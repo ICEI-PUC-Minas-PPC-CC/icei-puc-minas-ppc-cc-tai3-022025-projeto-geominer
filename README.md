@@ -41,7 +41,7 @@ PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/QHAu8b8GK
 
 ### 4️⃣ Investimentos e Precificação
 
-[Plano De Negócio](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/1658d8dc6597830532519a9dc3824a0019d07409/plano_de_negocio.md)
+[Plano De Negócio](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/1fb75a69a3c12d38ea942cb9ce7cf2cdc970bcab/plano_de_negocio.md)
 
 PNBOX: https://pnbox.sebrae.com.br/planoNegocio/invite/QHAu8b8GK
 
@@ -86,7 +86,7 @@ Essa estrutura cria uma escada de valor que aumenta a retenção e receita por c
 
 ### 5️⃣ SWOT (Análise de Ambientes)
 
-[Plano De Negócio](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/1658d8dc6597830532519a9dc3824a0019d07409/plano_de_negocio.md)
+[Plano De Negócio](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/1fb75a69a3c12d38ea942cb9ce7cf2cdc970bcab/plano_de_negocio.md)
 
 - Forças:
 
