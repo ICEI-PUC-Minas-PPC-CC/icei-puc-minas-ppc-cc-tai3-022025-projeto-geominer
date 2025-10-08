@@ -2,6 +2,10 @@
 
 ---
 
+## Lean Canvas
+
+
+
 ## 💰 Investimentos
 
 ### Investimento Fixo
@@ -83,8 +87,78 @@ As alíquotas iniciam em **6% sobre o faturamento bruto**, podendo variar confor
 - **Registros contábeis obrigatórios** da empresa, mesmo no Simples Nacional;  
 - Cumprimento das **obrigações trabalhistas** em caso de contratação de funcionários (FGTS, INSS patronal).  
 
+## 🧭 Diagnóstico Estratégico
+
+A análise estratégica da **GeoMiner** foi elaborada com base na pesquisa de mercado e na Matriz SWOT, visando identificar o posicionamento competitivo, as oportunidades de crescimento e os desafios para o negócio.
+
 ---
 
-✅ Esse formato já está pronto para ser inserido no repositório GitHub como `plano_de_negocio.md`.  
+## 📈 Pesquisa de Mercado
 
-Quer que eu já adicione também a **SWOT Analysis** que montamos e deixe o arquivo final completinho para você subir direto?
+A pesquisa de mercado teve como objetivo compreender o cenário competitivo e o comportamento dos consumidores no segmento de **mineração e análise de dados para e-commerce**.
+Foi realizado um levantamento de soluções já existentes e tendências tecnológicas que influenciam o setor.
+
+### 🔍 Principais Tendências Identificadas
+
+* Crescimento acelerado do **e-commerce** e da digitalização de lojas físicas.
+* Adoção crescente de **ferramentas de automação e inteligência de dados** para decisões comerciais.
+* Demanda por **integração entre marketplaces** (Amazon, Mercado Livre, Shopee etc.) para análise consolidada.
+* Aumento da importância de **monitoramento de preços, produtos em alta e concorrência** em tempo real.
+
+### 🧩 Público-Alvo
+
+O público-alvo da GeoMiner é composto por:
+
+* Pequenos e médios **vendedores de e-commerce** que desejam entender melhor seu mercado.
+* **Gestores de marketing digital** e **agências de performance** que necessitam de dados precisos sobre produtos e concorrentes.
+* **Startups e analistas de mercado** interessados em relatórios inteligentes de tendência e comportamento de consumo.
+
+### 🏢 Concorrentes Diretos
+
+Empresas que oferecem soluções similares à GeoMiner:
+
+* **Keepa:** Análise de histórico de preços e vendas da Amazon.
+* **MercadoRadar:** Plataforma brasileira de análise de dados do Mercado Livre.
+* **Bseller Analytics:** Ferramenta de monitoramento de desempenho e lucratividade.
+
+### 🌐 Concorrentes Indiretos
+
+Empresas e plataformas que oferecem recursos parcialmente semelhantes:
+
+* **Google Trends**, **SimilarWeb**, **Semrush**, **Oberlo** e **EcomSpy**, que fornecem dados e insights gerais de mercado, tráfego e tendências de consumo.
+
+### ⚙️ Oportunidades e Ameaças do Mercado
+
+* **Oportunidades:** expansão do mercado de e-commerce, alta demanda por BI e integração entre marketplaces.
+* **Ameaças:** forte concorrência internacional e possíveis restrições de acesso a dados (APIs e scraping).
+
+---
+
+## 📊 Matriz SWOT (Análise de Ambientes)
+
+### **Forças (Strengths)**
+
+* Equipe técnica qualificada em mineração de dados e desenvolvimento full stack.
+* Integração com múltiplos marketplaces (Amazon, Mercado Livre etc.).
+* Interface moderna e dashboards personalizáveis.
+* Utilização de tecnologias de ponta (NestJS, React, PostgreSQL).
+
+### **Fraquezas (Weaknesses)**
+
+* Projeto em fase inicial de validação.
+* Necessidade de investimento em infraestrutura e marketing.
+* Dependência de APIs externas.
+
+### **Oportunidades (Opportunities)**
+
+* Expansão contínua do comércio eletrônico no Brasil e exterior.
+* Crescimento do uso de ferramentas de análise de dados.
+* Possibilidade de parcerias com marketplaces e agências digitais.
+
+### **Ameaças (Threats)**
+
+* Concorrência consolidada com maior poder financeiro.
+* Mudanças em políticas de dados de marketplaces.
+* Risco de substituição por soluções gratuitas.
+* Instabilidade econômica que pode afetar investimentos em tecnologia.
+
