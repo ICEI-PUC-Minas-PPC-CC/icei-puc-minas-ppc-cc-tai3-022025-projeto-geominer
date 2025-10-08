@@ -2,9 +2,7 @@
 
 ---
 
-## Lean Canvas
-
-
+## Lean Canvas: leancanvasgeominer.png
 
 ## 💰 Investimentos
 
