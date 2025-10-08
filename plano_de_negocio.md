@@ -2,7 +2,7 @@
 
 ---
 
-## Lean Canvas: leancanvasgeominer.png
+## Lean Canvas: [leancanvasgeominer.png](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/0593e92e5f914455111d5132f7ad15a3745bccba/leancanvasgeominer.png)
 
 ## 💰 Investimentos
 
