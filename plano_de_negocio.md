@@ -135,6 +135,8 @@ Empresas e plataformas que oferecem recursos parcialmente semelhantes:
 
 ## 📊 Matriz SWOT (Análise de Ambientes)
 
+<img width="800" height="521" alt="Swot (FOFA).png" src="https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/5d0bc3792058f445b619cf49a1b283a753bd9d1b/Swot%20(FOFA).png" />
+
 ### **Forças (Strengths)**
 
 * Equipe técnica qualificada em mineração de dados e desenvolvimento full stack.
