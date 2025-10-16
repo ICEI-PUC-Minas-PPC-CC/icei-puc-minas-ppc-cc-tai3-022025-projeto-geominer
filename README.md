@@ -117,9 +117,7 @@ Oscilações no mercado de e-commerce que podem impactar a demanda.
 Risco de ataques cibernéticos e necessidade de forte investimento em segurança da informação.
 
 ### 6️⃣ Planejamento Estratégico (BSC)
-- Objetivos estratégicos:  
-- Indicadores e metas:  
-- Ações planejadas:  
+[Planejamento Estratégico](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/870f8e955ff64fabcbf4572ed7b3312378c29435/Planilha%20Planejamento%20Estrat%C3%A9gico-geominer.xlsx)
 
 ### 7️⃣ Fluxo de Caixa
 - Planilha ou print do fluxo projetado:  
