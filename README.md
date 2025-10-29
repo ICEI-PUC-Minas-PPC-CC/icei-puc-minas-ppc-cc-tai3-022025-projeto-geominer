@@ -120,8 +120,7 @@ Risco de ataques cibernéticos e necessidade de forte investimento em segurança
 [Planejamento Estratégico](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/870f8e955ff64fabcbf4572ed7b3312378c29435/Planilha%20Planejamento%20Estrat%C3%A9gico-geominer.xlsx)
 
 ### 7️⃣ Fluxo de Caixa
-- Planilha ou print do fluxo projetado:  
-- Principais considerações:  
+[Fluxo de Caixa](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/31cd4d0fd333f799bc8ba1030573123fc97cade7/fluxo_de_caixa.xlsx)
 
 ### 8️⃣ Valuation
 - Método utilizado:  
