@@ -123,8 +123,97 @@ Risco de ataques cibernéticos e necessidade de forte investimento em segurança
 [Fluxo de Caixa](https://github.com/ICEI-PUC-Minas-PPC-CC/icei-puc-minas-ppc-cc-tai3-022025-projeto-geominer/blob/31cd4d0fd333f799bc8ba1030573123fc97cade7/fluxo_de_caixa.xlsx)
 
 ### 8️⃣ Valuation
-- Método utilizado:  
-- Valor estimado:  
+
+## Objetivo
+Estimativa do valor econômico do projeto GeoMiner com base nas projeções financeiras já desenvolvidas (custos, receitas e fluxo de caixa). O método principal aplicado foi o **Fluxo de Caixa Descontado (FCD)** por ser adequado para startups com projeções de receita.
+
+---
+
+## Métodos de avaliação considerados
+- **Fluxo de Caixa Descontado (FCD)** — método principal usado aqui.
+- **Múltiplos de mercado** — analisado conceitualmente (não aplicado numericamente por falta de empresas perfeitamente comparáveis no escopo do trabalho).
+- **Valor patrimonial** — considerado apenas qualitativamente (ativos iniciais pequenos, sem grande efeito no valuation).
+
+Justificativa da escolha: o FCD considera diretamente as projeções de caixa do negócio e a incerteza futura por meio da taxa de desconto, sendo o mais apropriado para startups SaaS em fase inicial.
+
+---
+
+## Hipóteses adotadas
+- Horizonte de projeção: **5 anos**.
+- Taxa de desconto (custo de capital / risco): **10% ao ano**.
+- Crescimento de receita (implícito nas projeções): conforme a tabela abaixo.
+
+---
+
+## Projeções usadas (resumo anual)
+(Valores em R$)
+
+| Ano | Receita anual estimada | Despesas anuais | Caixa operacional (Receita - Despesa) |
+|-----:|----------------------:|----------------:|---------------------------------------:|
+| 1 | 42.000 | 24.000 | 18.000 |
+| 2 | 48.300 | 26.000 | 22.300 |
+| 3 | 55.545 | 28.600 | 26.945 |
+| 4 | 63.877 | 31.460 | 32.417 |
+| 5 | 73.459 | 34.606 | 38.853 |
+
+---
+
+## Cálculo do FCD (desconto a 10% a.a.)
+
+Onde:
+- CFₙ = fluxo de caixa do ano n
+- r = taxa de desconto (10% = 0,10)
+- n = número do ano
+
+Cálculo (arredondado):
+
+- Ano 1: CF = 18.000 → PV = 18.000 / 1,10 = **16.363,64**
+- Ano 2: CF = 22.300 → PV = 22.300 / 1,10² = 22.300 / 1,21 = **18.429,75**
+- Ano 3: CF = 26.945 → PV = 26.945 / 1,10³ = 26.945 / 1,331 = **20.256,46**
+- Ano 4: CF = 32.417 → PV = 32.417 / 1,10⁴ = 32.417 / 1,4641 = **22.146,03**
+- Ano 5: CF = 38.853 → PV = 38.853 / 1,10⁵ = 38.853 / 1,61051 = **24.120,22**
+
+**Soma dos PVs (anos 1–5)** = 16.363,64 + 18.429,75 + 20.256,46 + 22.146,03 + 24.120,22 = **R$ 101.316,10**
+
+---
+
+## Alternativa com Terminal Value (opcional)
+Valor residual após ano 5 (terminal value, usando crescimento perpétuo/Gordon):
+
+Terminal value (TV):
+
+com 
+ = taxa de crescimento perpétua (ex.: 3% = 0,03).
+
+Usando CF5 = 38.853, r = 0,10 e g = 0,03:
+
+
+Descontando ao presente (dividir por 1,10⁵ = 1,61051):
+
+
+**Valor total (PVs 1–5 + PV(TV)) ≈ 101.316 + 354.268 = R$ 455.584**
+
+---
+
+## Resultado final
+- **Valuation conservador (só 5 anos, sem terminal):** **R$ 101.316**.
+- **Valuation com terminal (g=3%):** **R$ 455.584**.
+
+---
+
+## Observações Finais
+- O FCD exige hipóteses (crescimento, despesas e taxa de desconto) — pequenas mudanças nesses números alteram bastante o valuation.
+- O terminal value domina o resultado quando usado; por isso é importante justificar a taxa de crescimento perpétua (g) de forma realista.
+- Este valuation não substitui uma auditoria financeira nem cálculos fiscais detalhados; é uma estimativa econômica baseada nas projeções do grupo.
+
+---
+
+## Referências
+- DAMODARAN, Aswath. *Investment Valuation: Tools and Techniques for Determining the Value of Any Asset*. Wiley.
+- ASSAF NETO, Alexandre. *Valuation — Medição e Gestão do Valor das Empresas*. Atlas Online.
+- SEBRAE. *Como calcular o valor de uma empresa: métodos de valuation.*
+
+---
 
 ### 9️⃣ Segurança Cibernética
 - Riscos identificados:  
