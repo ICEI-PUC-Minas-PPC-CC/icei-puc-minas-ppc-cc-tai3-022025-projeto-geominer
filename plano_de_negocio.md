@@ -163,3 +163,10 @@ Empresas e plataformas que oferecem recursos parcialmente semelhantes:
 * Risco de substituição por soluções gratuitas.
 * Instabilidade econômica que pode afetar investimentos em tecnologia.
 
+## 💰 Análise do Fluxo de Caixa
+
+O fluxo de caixa da **GeoMiner** demonstra um início com maiores investimentos em **estrutura, tecnologia e marketing**, o que gera saldo negativo nos primeiros meses — algo esperado para a fase inicial do negócio.
+
+A partir do **terceiro mês**, com o aumento das assinaturas e o fortalecimento da marca, as **receitas começam a crescer** e o fluxo se equilibra gradualmente.
+
+Com o **controle dos custos operacionais** e a **entrada de novos clientes**, o ponto de equilíbrio é projetado para o **segundo trimestre**. A análise mostra que o modelo é **financeiramente viável** e tende a gerar **lucro sustentável a partir do sexto mês**, permitindo novos investimentos e melhorias contínuas na plataforma.
